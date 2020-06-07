@@ -14,7 +14,7 @@ func main() {
 
 	fmt.Println("len:", len(a))
 
-	b := []int{1, 2, 3, 4, 5}
+	b := [5]int{1, 2, 3, 4, 5}
 	fmt.Println("dcl:", b)
 
 	var twoD [2][3]int
