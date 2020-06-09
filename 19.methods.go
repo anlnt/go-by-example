@@ -25,3 +25,10 @@ func main() {
 	fmt.Println("area:", rp.area())
 	fmt.Println("perim:", rp.perim())
 }
+
+/*
+area: 50
+perim: 30
+area: 50
+perim: 30
+*/
